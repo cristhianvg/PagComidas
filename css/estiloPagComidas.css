@@ -1,0 +1,318 @@
+.divLogo{
+    height: 150px;
+    background: #F6AC55;
+    padding-left: 20px;
+}
+.divLogoXs{
+    height: 140px;
+    background: #F6AC55;
+    padding-left: 0px;
+    padding-top: 15px;
+}
+.logoXs{
+    width: 150px;
+    height: 105px;
+}
+.divTitulo{
+    height: 150px;
+    background: #F6AC55;
+    padding: 15px;
+}
+.divTituloXs{
+    height: 140px;
+    background: #F6AC55;
+}
+.titulo{
+    font-family: Blackadder ITC;
+    font-size: 50px;
+    text-align: center;
+    color: #703201;
+    border-bottom: solid 2px #703201;
+    border-top: solid 2px #703201;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.tituloXs{
+    font-family: Blackadder ITC;
+    font-size: 40px;
+    text-align: center;
+    color: #703201;
+    border-bottom: solid 2px #703201;
+    border-top: solid 2px #703201;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+/*segundo row*/
+.divDescripcion{
+    background: #E26F2E;
+    height: 650px;
+    padding-top: 30px;
+}
+.divDescripcionSm{
+    background: #E26F2E;
+    height: 80px;
+}
+.divDescripcionSm2{
+    background: #E26F2E;
+    height: 80px;
+    padding: 0px;
+    padding-top: 20px;
+}
+.divDescripcionXs{
+    background: #E26F2E;
+    height: 50px;
+}
+.divDescripcionXs2{
+    background: #E26F2E;
+    height: 120px;
+    padding-top: 20px;
+}
+.divDescripcionXs3{
+    background: #E26F2E;
+    height: 120px;
+    padding-top: 20px;
+}
+.titDescripcion{
+    font-family: Blackadder ITC;
+    font-size: 30px;
+    color: black;
+    margin-bottom: 30px;
+}
+.titDescripcionSm{
+    font-family: Blackadder ITC;
+    font-size: 25px;
+    color: black;
+    margin-top: 5px;
+    border-right: solid 2px #703201;
+}
+.titDescripcionXs{
+    font-family: Blackadder ITC;
+    font-size: 30px;
+    color: black;
+    margin-top: 5px;
+    text-align: center;
+}
+.parrafo{
+    font-family: French Script MT;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+.parrafoSm{
+    font-family: French Script MT;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+.parrafoXs{
+    font-family: French Script MT;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+.parrafoXs1{
+    font-family: French Script MT;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    border-left: solid 2px #703201;
+    border-right: solid 2px #703201;
+}
+.parrafoXs2{
+    font-family: French Script MT;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+.contenedorDivRedondo{
+    border-top: solid 2px #703201;
+    border-bottom: solid 2px #703201;
+    padding-top: 10px;
+    margin-top: 40px;
+}
+.contenedorDivRedondoMd{
+    border-top: solid 2px #703201;
+    padding-top: 10px;
+    margin-top: 40px;
+}
+.divRedondo{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background: #703201;
+    text-align: center;
+}
+.divRedondoMd{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #703201;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.icono{
+    margin-top: 10px;
+    font-size: 40px;
+    color: #F6AC55;
+}
+.iconoMd{
+    margin-top: 8px;
+    font-size: 20px;
+    color: #F6AC55;
+}
+.parrafo2{
+    font-family: Agency FB;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin-top: 7px;
+}
+.parrafo3{
+    font-family: Agency FB;
+    font-size: 20px;
+    color: black;
+    margin-top: 7px;
+}
+
+
+.contenedorDeColumnas{
+    background: #703201;
+    height: 650px;
+}
+.divParrafoAmor{
+    background: #703201;
+}
+.parrafoAmor{
+    font-family: Cooper Black;
+    font-size: 25px;
+    color: #ebccd1;
+    text-align: center;
+    margin: 20px;
+}
+.parrafoAmorXs{
+    font-family: Cooper Black;
+    font-size: 20px;
+    color: #ebccd1;
+    text-align: center;
+    margin: 10px;
+}
+.divDesayuno{
+    height: 250px;
+    background: #703201;
+    margin-top: 50px;
+}
+.divDesayunoSm{
+    height: 280px;
+    background: #703201;
+}
+.divAlmuerzo{
+    height: 250px;
+    background: #703201;
+    margin-top: 50px;
+    border-left: solid 2px #F6AC55;
+    border-right: solid 2px #F6AC55;
+}
+.divAlmuerzoSm{
+    height: 280px;
+    background: #703201;
+    border-left: solid 2px #F6AC55;
+    border-right: solid 2px #F6AC55;
+}
+.img{
+    width: 225px;
+    height: 200px;
+    margin: 20px;
+}
+.imgMd{
+    width: 200px;
+    height: 185px;
+    margin: 5px;
+}
+.imgXs{
+    width: 110px;
+    height: 100px;
+    margin: 5px;
+}
+.titDesayuno{
+    font-family: Blackadder ITC;
+    font-size: 30px;
+    text-align: center;
+    color: #703201;
+    border-bottom: solid 2px #703201;
+    border-top: solid 2px #703201;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background: #F6AC55;
+    margin: 0px;
+}
+.titDesayunoXs{
+    font-family: Blackadder ITC;
+    font-size: 30px;
+    text-align: center;
+    color: #703201;
+    border-bottom: solid 2px #703201;
+    border-top: solid 2px #703201;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background: #F6AC55;
+    margin: 20px;
+}
+.contenedorContactosSm{
+    background: #E26F2E;
+    height: 50px;
+    padding-top: 5px;
+}
+.contenedorContactosXs{
+    background: #E26F2E;
+    height: 50px;
+    padding-top: 5px;
+}
+.divRedondoSm{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #F6AC55;
+    text-align: center;
+}
+.iconoSm{
+    margin-top: 8px;
+    font-size: 20px;
+}
+.textContactoSm{
+    font-family: Agency FB;
+    font-size: 20px;
+    padding-top: 7px;
+    color: black;
+}
+
+
+
+
+.titModal{
+    font-family: Blackadder ITC;
+    font-size: 30px;
+    text-align: center;
+    color: #703201;
+    border-bottom: solid 2px #703201;
+    border-top: solid 2px #703201;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.subTit{
+    font-family: French Script MT;
+    font-size: 40px;
+    color: black;
+}
+.Text{
+    font-family: Agency FB;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+
+.lineaBotton{
+    border-bottom: solid 2px #703201
+}
